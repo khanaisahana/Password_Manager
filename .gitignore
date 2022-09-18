@@ -1,0 +1,10 @@
+.gitignore                
+image/                          
+venv/   
+.idea/        
+build/            
+password_management_system.sql
+.git/  
+__pycache__/  
+db_operations.py  
+setup.py
