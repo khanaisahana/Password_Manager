@@ -28,3 +28,8 @@ Ability to add, update, and remove login information.<br>
 Password encryption and secure login to protect user privacy and security.<br>
 
 
+## SNAPSHOTS
+![image](https://github.com/khanaisahana/Password_Manager/assets/67268473/c8ee0a4b-7771-4cb9-9b0a-ddb8d178c33d)
+![image](https://github.com/khanaisahana/Password_Manager/assets/67268473/6e2334e6-2755-4a55-b24d-1d587a5e9863)
+![image](https://github.com/khanaisahana/Password_Manager/assets/67268473/3fa4b086-d890-484b-b0e0-6ceaa842086e)
+
